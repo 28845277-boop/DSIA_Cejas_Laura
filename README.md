@@ -42,7 +42,7 @@ ejercicios prácticos se aplicaron estos conceptos para resolver problemas simpl
 las bases necesarias para el trabajo posterior con datos y desarrollo de modelos de inteligencia
 artificial.
 
-**Enlace:** 002-Python/TP02_PythonIntroduccion.ipynb
+**Enlace:** [TP02_PythonIntroduccion.ipynb](./002-PythonIntroduccion/TP02_PythonIntroduccion.ipynb.ipynb)
 
 **TP 03: Control de Versiones con Git y GitHub**
 
