@@ -50,7 +50,7 @@ artificial.
 
 En este trabajo práctico se introdujo el uso de Git y GitHub como herramientas de control de versiones y colaboración en proyectos de desarrollo. Se trabajó con la creación de repositorios, versionado de archivos, commits, ramas y sincronización con repositorios remotos. El objetivo fue comprender cómo gestionar proyectos de manera colaborativa y mantener un historial organizado de los cambios realizados en el desarrollo de proyectos de ciencia de datos e inteligencia artificial.
 
-**Enlace:** 003-GitGithub/TP03_GitGitHub.ipynb
+**Enlace:** [TP03_PythonLibrerias.ipynb](./003-PythonLibrerias/TP03_PythonLibrerias.ipynb)
 
 
 **TP 04: Trabajo Práctico Integrador (TPI)**
