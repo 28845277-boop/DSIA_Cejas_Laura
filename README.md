@@ -29,7 +29,7 @@ plataforma. El objetivo fue familiarizarse con el entorno de trabajo que se util
 cursada y comprender la estructura de un notebook orientado al análisis de datos y al trabajo
 colaborativo.
 
-**Enlace:**  [Ver TP01 - DeepNote](./001-DeepNote/TP01_DeepNote.ipynb)
+**Enlace:**  [TP01 - DeepNote](./001-DeepNote/TP01_DeepNote.ipynb)
 
 
 **TP 02: Introducción a la Programación en Python**
