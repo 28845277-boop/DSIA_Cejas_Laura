@@ -1,14 +1,8 @@
-# Tecnicatura de Ciencia de Datos e Inteligencia Artificial
+### Materia: Desarrollo de Sistemas de Inteligencia Artificial - 2026
 
-## Desarrollo de Sistemas de Inteligencia Artificial
+### Estudiante: Cejas, Laura
 
-**Profesora:** Nombre de la profesora
-
-**Materia:** Desarrollo de Sistemas de Inteligencia Artificial - 2026
-
-**Estudiante:** Cejas, Laura
-
-### Breve Descripción de la Materia
+**Breve Descripción de la Materia**
 
 Desarrollo de Sistemas de Inteligencia Artificial es una asignatura orientada a comprender y
 aplicar los principios fundamentales para el diseño y desarrollo de soluciones basadas en
@@ -19,7 +13,8 @@ social y ético que generan estas tecnologías en la actualidad.
 
 **Aspectos Más Interesantes del Curso:**
 
-- lorem ipsum
+- Aprender nuevas herramientas como GitHub y DeepNote, y repasar conceptos de programación.
+
 
 **Listado de Trabajos Prácticos Realizados:**
 
