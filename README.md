@@ -42,7 +42,7 @@ ejercicios prácticos se aplicaron estos conceptos para resolver problemas simpl
 las bases necesarias para el trabajo posterior con datos y desarrollo de modelos de inteligencia
 artificial.
 
-**Enlace:** [TP02_PythonIntroduccion.ipynb](./002-PythonIntroduccion/TP02_PythonIntroduccion.ipynb.ipynb)
+**Enlace:** [TP02 - PythonIntroduccion](./002-PythonIntroduccion/TP02_PythonIntroduccion.ipynb.ipynb)
 
 **TP 03: Control de Versiones con Git y GitHub**
 
@@ -50,7 +50,7 @@ artificial.
 
 En este trabajo práctico se introdujo el uso de Git y GitHub como herramientas de control de versiones y colaboración en proyectos de desarrollo. Se trabajó con la creación de repositorios, versionado de archivos, commits, ramas y sincronización con repositorios remotos. El objetivo fue comprender cómo gestionar proyectos de manera colaborativa y mantener un historial organizado de los cambios realizados en el desarrollo de proyectos de ciencia de datos e inteligencia artificial.
 
-**Enlace:** [TP03_PythonLibrerias.ipynb](./003-PythonLibrerias/TP03_PythonLibrerias.ipynb)
+**Enlace:** [TP03 - PythonLibrerias](./003-PythonLibrerias/TP03_PythonLibrerias.ipynb)
 
 
 **TP 04: Trabajo Práctico Integrador (TPI)**
@@ -67,5 +67,5 @@ En este trabajo práctico se introdujo el uso de Git y GitHub como herramientas 
 
 - Entrega Final: Presentación del proyecto, visualización de resultados y storytelling.
 
-**Enlace:** TPI-EDA.ipynb
+**Enlace:** [📁 TPI - EDA](./TPI-EDA)
 
